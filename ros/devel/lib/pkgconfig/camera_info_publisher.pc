@@ -1,0 +1,8 @@
+prefix=/home/student/Classes/Udacity/SDCND/Term3/SDCND-SystemIntegration/ros/devel
+
+Name: camera_info_publisher
+Description: Description of camera_info_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/student/Classes/Udacity/SDCND/Term3/SDCND-SystemIntegration/ros/devel/lib 
+Requires: 

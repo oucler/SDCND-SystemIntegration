@@ -1,0 +1,8 @@
+prefix=/home/student/Classes/Udacity/SDCND/Term3/SDCND-SystemIntegration/ros/devel
+
+Name: styx_msgs
+Description: Description of styx_msgs
+Version: 0.0.0
+Cflags: -I/home/student/Classes/Udacity/SDCND/Term3/SDCND-SystemIntegration/ros/devel/include
+Libs: -L/home/student/Classes/Udacity/SDCND/Term3/SDCND-SystemIntegration/ros/devel/lib 
+Requires: 
